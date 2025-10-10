@@ -1,4 +1,4 @@
-![Hellsaq Banner](https://i.pinimg.com/736x/50/c8/be/50c8bea1fb4fdee80601cbc84a6e92f1.jpg)
+![Hellsaq Banner](https://i.pinimg.com/originals/88/b8/5a/88b85afd0581a4d9b1d937b25c60e4f2.gif)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm  Hellsaq</h2>
 
@@ -11,7 +11,7 @@
 📦 &nbsp; I love getting new information about computer science and all that.\
 
 
-<img alt="Night Coding" src="https://i.pinimg.com/originals/f1/ee/2c/f1ee2cb13ca45da9b4136c52eb7600c8.gif" align="right"/>
+<img alt="Night Coding" src="https://i.pinimg.com/1200x/52/90/5c/52905c35fce7d1d93eda2d562c644a27.jpg" align="right"/>
 
 ### 🛠 &nbsp;Lenguajes
 
