@@ -1,9 +1,9 @@
 <div align=center>
-  <img src="https://count.getloli.com/get/@:r4lrgx?theme=booru-qualityhentais&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" width=400>
+  <img src="https://count.getloli.com/get/@:Hellsa?theme=booru-qualityhentais&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" width=400>
   <br>
 
-  <a href="https://www.instagram.com/kobebryant/">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=r4lrgx&theme=darkmode&data=followers,repositories,stars,commits" width=500>
+  <a href="https://www.instagram.com/sofocandola/">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Hellsa&theme=darkmode&data=followers,repositories,stars,commits" width=500>
   </a>
   <br>
   
