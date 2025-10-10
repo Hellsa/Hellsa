@@ -1,4 +1,4 @@
-![Hellsaq Banner](https://i.pinimg.com/originals/88/b8/5a/88b85afd0581a4d9b1d937b25c60e4f2.gif)
+![Hellsaq Banner](https://i.pinimg.com/originals/f2/03/29/f2032915779a21d738c289c14fd46f4e.gif)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm  Hellsaq</h2>
 
