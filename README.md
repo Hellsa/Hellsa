@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://count.getloli.com/get/@:Hellsa?theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" width=400>
+  <img src="https://count.getloli.com/get/@:Hellsa?theme=anime-pictures&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" width=400>
   <br>
 
   <a href="https://www.instagram.com/sofocandola/">
