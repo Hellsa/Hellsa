@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://count.getloli.com/get/@:Hellsa?theme=booru-qualityhentais&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" width=400>
+  <img src="https://count.getloli.com/get/@:Hellsa?theme=safebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" width=400>
   <br>
 
   <a href="https://www.instagram.com/sofocandola/">
@@ -14,9 +14,7 @@
   <code><img src="https://skillicons.dev/icons?i=css" width=40></code>
   <code><img src="https://skillicons.dev/icons?i=js" width=40></code>
   <code><img src="https://skillicons.dev/icons?i=go" width=40></code>
-  <code><img src="https://skillicons.dev/icons?i=rust" width=40></code>
   <code><img src="https://skillicons.dev/icons?i=py" width=40></code>
-  <code><img src="https://skillicons.dev/icons?i=elixir" width=40></code>
 </div>
 
 <br><br>
