@@ -11,7 +11,7 @@
 📦 &nbsp; I love getting new information about computer science and all that.\
 
 
-<img alt="Night Coding" src="https://i.pinimg.com/1200x/52/90/5c/52905c35fce7d1d93eda2d562c644a27.jpg" align="right"/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/f0/4b/a9/f04ba908d1744c429505ac5239c35e63.gif" align="right"/>
 
 ### 🛠 &nbsp;Lenguajes
 
