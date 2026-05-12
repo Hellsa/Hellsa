@@ -32,28 +32,6 @@ AI • Automation • Minimal Dark UI • Chaos Engineering
 
 # ABOUT ME
 
-<table>
-<tr>
+
 
 <td width="60%">
-
-```python
-class Hellsaq:
-
-    def __init__(self):
-        self.role = "AI & Data Science Student"
-        self.location = "Somewhere in the void"
-
-        self.focus = [
-            "AI Agents",
-            "Automation",
-            "LLMs",
-            "Python"
-        ]
-
-    def life(self):
-        return "Automating myself out of doing actual work."
-
-
-me = Hellsaq()
-print(me.life())
