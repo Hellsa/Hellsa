@@ -1,26 +1,59 @@
-<div align=center>
-  <img src="https://count.getloli.com/get/@:Hellsa?theme=anime-pictures&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" width=400>
-  <br>
+<a href="https://github.com/Hellsaq">
+  <img src="TU_BANNER_AQUI" width="100%" />
+</a>
 
-  <a href="https://www.instagram.com/sofocandola/">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=Hellsa&theme=darkmode&data=followers,repositories,stars,commits" width=500>
-  </a>
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellsa&layout=compact&theme=dark&hide_border=true&hide_title=true" width=500>
-  <br><br>
+<h1 align="center">Hellsaq</h1>
 
-  <code><img src="https://skillicons.dev/icons?i=html" width=40></code>
-  <code><img src="https://skillicons.dev/icons?i=css" width=40></code>
-  <code><img src="https://skillicons.dev/icons?i=js" width=40></code>
-  <code><img src="https://skillicons.dev/icons?i=go" width=40></code>
-  <code><img src="https://skillicons.dev/icons?i=py" width=40></code>
+<p align="center">
+AI • Automation • Minimal Dark UI • Chaos Engineering
+</p>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Hellsaq">
+<img src="https://img.shields.io/github/stars/Hellsaq?style=for-the-badge&color=000000&labelColor=000000&logo=github"/>
+</a>
+
+<a href="https://github.com/Hellsaq?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-11-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/Hellsaq?tab=followers">
+<img src="https://img.shields.io/github/followers/Hellsaq?style=for-the-badge&color=000000&labelColor=000000&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Hellsaq&style=for-the-badge&color=000000"/>
+
 </div>
 
-<br><br>
-<p align="right">
-  <a href="https://ko-fi.com/hellsa">
-    <img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a01229bf8a18f97a3c1_favion.png" width=18 loading=lazy/>
-    Ko-fi: @hellsa
-  </a>
-</p>
+---
+
+# ABOUT ME
+
+<table>
+<tr>
+
+<td width="60%">
+
+```python
+class Hellsaq:
+
+    def __init__(self):
+        self.role = "AI & Data Science Student"
+        self.location = "Somewhere in the void"
+
+        self.focus = [
+            "AI Agents",
+            "Automation",
+            "LLMs",
+            "Python"
+        ]
+
+    def life(self):
+        return "Automating myself out of doing actual work."
+
+
+me = Hellsaq()
+print(me.life())
