@@ -56,8 +56,7 @@ AI • Automation • Minimal Dark UI • Chaos Engineering
 
 <div align="center">
   <!-- Si sale 404, ve a la pestaña ACTIONS y dale a RUN WORKFLOW en "generate animation" -->
-  <img src="https://raw.githubusercontent.com/Hellsaq/Hellsaq/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
+<img src="https://raw.githubusercontent.com/Hellsaq/Hellsaq/output/github-contribution-grid-snake-dark.svg?sanitize=true" alt="Snake Animation" /></div>
 
 <br>
 
