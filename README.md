@@ -1,5 +1,5 @@
 <a href="https://github.com/Hellsaq">
-  <img src="TU_BANNER_AQUI" width="100%" />
+  <img src="https://pin.it/49ZTq305G" width="100%" />
 </a>
 
 <h1 align="center">Hellsaq</h1>
