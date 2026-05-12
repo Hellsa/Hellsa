@@ -35,7 +35,7 @@ AI • Automation • Minimal Dark UI • Chaos Engineering
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="TU_ICONO_1_AQUI" width="150px" />
+      <img src="https://i.pinimg.com/1200x/94/11/18/94111840a776c8e62e241ed6c0cf1ae9.jpg" width="150px" />
     </td>
     <td width="70%" valign="middle">
       <h3>System Architect & Automation Enthusiast</h3>
@@ -73,7 +73,7 @@ AI • Automation • Minimal Dark UI • Chaos Engineering
 
 ---
 
-<h2 align="center">FEATURED PROJECTS</h2>
+<h2 align="center">PROJECTS</h2>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -85,7 +85,7 @@ AI • Automation • Minimal Dark UI • Chaos Engineering
       </ul>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="TU_ICONO_2_AQUI" width="150px" />
+      <img src="https://i.pinimg.com/1200x/05/4c/7a/054c7a44c13045a3212defa95b6c5c08.jpg" width="150px" />
     </td>
   </tr>
 </table>
