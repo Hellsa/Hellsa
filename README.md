@@ -34,6 +34,65 @@ AI • Automation • Minimal Dark UI • Chaos Engineering
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
+    <!-- LADO IZQUIERDO: TU ICONO -->
+    <td width="30%" align="center" valign="middle">
+      <img src="URL_DE_TU_IMAGEN_PNG" width="150px" />
+    </td>
+    <!-- LADO DERECHO: DESCRIPCIÓN -->
+    <td width="70%" valign="middle">
+      <h3>System Architect & Automation Enthusiast</h3>
+      <p>
+        Hola, soy <b>Hellsaq</b>. Me especializo en el desarrollo de sistemas inteligentes y 
+        automatización de procesos bajo entornos de alta eficiencia. Mi enfoque se basa en el 
+        <b>minimalismo funcional</b> y la robustez técnica.
+      </p>
+      <p>
+        <i>"Turning chaos into engineered precision."</i>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<h2 align="center">CONTRIBUTION SNAKE</h2>
+
+<div align="center">
+  <!-- La serpiente se genera en la rama 'output' tras correr el Workflow -->
+  <img src="https://raw.githubusercontent.com/Hellsaq/Hellsaq/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<br>
+
+<h2 align="center">CORE STATISTICS</h2>
+
+<div align="center">
+  <!-- GitHub Stats Card (B&W) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Hellsaq&show_icons=true&theme=dark&hide_border=false&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=000000" alt="Hellsaq Stats" />
+  
+  <br><br>
+
+  <!-- Top Languages Card (B&W) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellsaq&layout=compact&theme=dark&hide_border=false&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=000000" alt="Hellsaq Languages" />
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+</p>
+<img src="https://komarev.com/ghpvc/?username=Hellsaq&style=for-the-badge&color=000000"/>
+
+</div>
+
+---
+
+<h2 align="center">ABOUT ME</h2>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
     <!-- LADO IZQUIERDO: TU ICONO/EMOJI -->
     <td width="30%" align="center" valign="middle">
       <img src="TU_URL_DE_IMAGEN_AQUI" width="150px" />
