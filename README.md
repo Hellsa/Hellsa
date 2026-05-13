@@ -35,7 +35,7 @@ AI • Automation • Minimal Dark UI • Chaos Engineering
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/1200x/94/11/18/94111840a776c8e62e241ed6c0cf1ae9.jpg" width="150px" />
+      <img src="/imgs/wld.png" width="150px" />
     </td>
     <td width="70%" valign="middle">
       <h3>System Architect & Automation Enthusiast</h3>
@@ -52,24 +52,9 @@ AI • Automation • Minimal Dark UI • Chaos Engineering
 
 ---
 
-<h2 align="center">CONTRIBUTION SNAKE</h2>
-
-<div align="center">
-  <!-- Si sale 404, ve a la pestaña ACTIONS y dale a RUN WORKFLOW en "generate animation" -->
-<img src="https://raw.githubusercontent.com/Hellsaq/Hellsaq/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" /></div>
-
-<br>
-
-<h2 align="center">CORE STATISTICS</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hellsaq&show_icons=true&theme=black_ice&hide_border=false" alt="Hellsaq Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellsaq&layout=compact&theme=black_ice&hide_border=false" alt="Hellsaq Languages" />
-</div>
-
-<br>
-
+<h2 align="center""> <img src="/imgs/sta.png" width="25"/> <em> Statistics </em> </h2>
+<div align = "center"> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hellsa&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 ---
 
 <h2 align="center">PROJECTS</h2>
@@ -84,7 +69,7 @@ AI • Automation • Minimal Dark UI • Chaos Engineering
       </ul>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/1200x/05/4c/7a/054c7a44c13045a3212defa95b6c5c08.jpg" width="150px" />
+      <img src="/imgs/books.png" width="150px" />
     </td>
   </tr>
 </table>
