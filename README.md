@@ -12,19 +12,19 @@ AI • Automation • Minimal Dark UI • Chaos Engineering
 
 <div align="center">
 
-<a href="https://github.com/Hellsaq">
-<img src="https://img.shields.io/github/stars/Hellsaq?style=for-the-badge&color=000000&labelColor=000000&logo=github"/>
+<a href="https://github.com/Hellsa">
+<img src="https://img.shields.io/github/stars/Hellsa?style=for-the-badge&color=000000&labelColor=000000&logo=github"/>
 </a>
 
-<a href="https://github.com/Hellsaq?tab=repositories">
+<a href="https://github.com/Hellsa?tab=repositories">
 <img src="https://img.shields.io/badge/Repositories-11-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/Hellsaq?tab=followers">
-<img src="https://img.shields.io/github/followers/Hellsaq?style=for-the-badge&color=000000&labelColor=000000&logo=github"/>
+<a href="https://github.com/Hellsa?tab=followers">
+<img src="https://img.shields.io/github/followers/Hellsa?style=for-the-badge&color=000000&labelColor=000000&logo=github"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Hellsaq&style=for-the-badge&color=000000"/>
+<img src="https://komarev.com/ghpvc/?username=Hellsa&style=for-the-badge&color=000000"/>
 
 </div>
 
